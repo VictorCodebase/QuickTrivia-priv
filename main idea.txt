@@ -1,0 +1,8 @@
+A pvp game where each player gets a random question and chooses an answer. If answer is correct they get a point. Players can get
+
+
+Hey and welcome to VictorCodebase. here we make programming fun for everyone by building simple interesting yet buggy games for you and your buddies to enjoy.
+
+Today well be making a full 3d, triple A pvp first person shooter game to rival the likes of pubG🤪
+
+import module - requests
